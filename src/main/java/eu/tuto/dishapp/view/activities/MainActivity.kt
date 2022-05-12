@@ -1,4 +1,4 @@
-package eu.tuto.dishapp
+package eu.tuto.dishapp.view.activities
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,6 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import eu.tuto.dishapp.R
 import eu.tuto.dishapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

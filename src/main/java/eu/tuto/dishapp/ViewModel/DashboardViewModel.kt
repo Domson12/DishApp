@@ -1,4 +1,4 @@
-package eu.tuto.dishapp.ui.dashboard
+package eu.tuto.dishapp.ViewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

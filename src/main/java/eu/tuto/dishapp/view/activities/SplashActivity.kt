@@ -1,4 +1,4 @@
-package eu.tuto.dishapp
+package eu.tuto.dishapp.view.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -11,6 +11,7 @@ import android.view.WindowInsets
 import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
+import eu.tuto.dishapp.R
 import eu.tuto.dishapp.databinding.ActivitySplashBinding
 
 @Suppress("DEPRECATION")
